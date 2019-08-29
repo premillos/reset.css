@@ -1,6 +1,6 @@
 {
   "name": "pssgo-reset.css",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "pssgo's reset.css",
   "main": "./dist/reset.css",
   "scripts": {
