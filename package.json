@@ -1,5 +1,5 @@
 {
-  "name": "@pssgo/reset.css",
+  "name": "pssgo-reset.css",
   "version": "0.1.0",
   "description": "pssgo's reset.css",
   "main": "./dist/reset.css",

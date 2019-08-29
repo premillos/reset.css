@@ -6,12 +6,12 @@
 **NPM**
 
 ```sh
-npm install --save pssgo/reset.css
+npm install --save pssgo-reset.css
 ```
 
 **YARN**
 ```sh
-yarn add pssgo/reset.css
+yarn add pssgo-reset.css
 ```
 
 ## LICENSE
