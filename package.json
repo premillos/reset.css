@@ -1,0 +1,23 @@
+{
+  "name": "@pssgo/reset.css",
+  "version": "0.1.0",
+  "description": "pssgo's reset.css",
+  "main": "./dist/reset.css",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pssgo/reset.css.git"
+  },
+  "author": "pssgo (http://www.pssgo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pssgo/reset.css/issues"
+  },
+  "homepage": "https://github.com/pssgo/reset.css#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0"
+  }
+}
