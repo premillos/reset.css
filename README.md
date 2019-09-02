@@ -2,7 +2,8 @@
 
 > pssgo's reset.css
 
-[![npm][npm-image]][npm-url] 
+[![npm][npm-image]][npm-url]
+[![Build Status](https://travis-ci.org/pssgo/reset.css.svg?branch=master)](https://travis-ci.org/pssgo/reset.css)
 
 
 **NPM**
